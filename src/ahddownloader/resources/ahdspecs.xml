@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : ahdspecs.xml
+    Created on : 8 de Outubro de 2010, 20:49
+    Author     : tvcsantos
+    Description:
+        Purpose of the document follows.
+-->
+
+<ahdspecs>
+    <version>1.0</version>
+    <internalgroups>
+        <group>deciBeL</group>
+        <group>de[42]</group>
+        <group>D-ZON3</group>
+        <group>FoRM</group>
+        <group>FTW-HD</group>
+        <group>HiFi</group>
+        <group>xander</group>
+        <group>Penumbra</group>
+    </internalgroups>
+    <ripspecifics>
+        <media icon="media/bluray.png">Blu-Ray</media>
+        <media icon="media/hddvd.png">HD-DVD</media>
+        <media icon="media/hdtv.png">HDTV</media>
+        <media icon="media/webdl.png">WEB-DL</media>
+        <resolution icon="resolution/1080p.png">1080p</resolution>
+        <resolution icon="resolution/720p.png">720p</resolution>
+        <resolution icon="resolution/1080i.png">1080i</resolution>
+        <audioformat icon="audioformat/ac3.png">AC-3</audioformat>
+        <audioformat icon="audioformat/dts.png">DTS</audioformat>
+        <audioformat icon="audioformat/aac.png">AAC</audioformat>
+        <audioformat icon="audioformat/dtshdma.png">DTSHD-MA</audioformat>
+        <audioformat icon="audioformat/dtshdhra.png">DTSHD-HRA</audioformat>
+        <audioformat icon="audioformat/dtsex.png">DTS-Express</audioformat>
+        <audioformat icon="audioformat/truehd.png">TrueHD</audioformat>
+        <audioformat icon="audioformat/pcm.png">PCM</audioformat>
+        <audioformat icon="audioformat/flac.png">FLAC</audioformat>
+        <encodestatus>AHD Gold + DXVA</encodestatus>
+        <encodestatus>AHD Gold</encodestatus>
+        <encodestatus>DXVA</encodestatus>
+    </ripspecifics>
+    <misc>
+        <freeleech>25</freeleech>
+        <freeleech>50</freeleech>
+        <freeleech>75</freeleech>
+    </misc>
+</ahdspecs>
